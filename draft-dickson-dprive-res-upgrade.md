@@ -1,7 +1,7 @@
 ---
-title: Planning document for DNS resolver identity, discovery, privacy and security.
-abbrev: DPRIVE ID-Discovery-plan
-docname: draft-ietf-dprive-id-discovery-plan-00
+title: DNS resolver upgrade with identity, discovery, privacy and security.
+abbrev: DPRIVE resolver upgrade
+docname: draft-dickson-dprive-res-upgrade-00
 category: info
 
 ipr: trust200902
@@ -26,7 +26,7 @@ informative:
 
 --- abstract
 
-This document is a planning document to discuss IETF drafts (including requirements) for DNS resolver identity, discovery, privacy and security.
+This document is an IETF draft for DNS resolver upgrades, including identity, discovery, privacy and security.
 
 --- middle
 
