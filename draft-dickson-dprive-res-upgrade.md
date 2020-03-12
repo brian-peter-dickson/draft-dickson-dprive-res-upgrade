@@ -42,7 +42,7 @@ The motivation for this work is to facilitate discovery of actual full resolvers
 
 # Document Work Via GitHub
 
-The authors are working on this document via GitHub at https://github.com/brian-peter-dickson/ietf-dprive-id-discovery-plan. Feedback via pull requests and issues are invited there. 
+The authors are working on this document via GitHub at https://github.com/brian-peter-dickson/draft-dickson-dprive-id-res-upgrade. Feedback via pull requests and issues are invited there. 
 
 # Terminology
 
